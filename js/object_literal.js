@@ -16,3 +16,4 @@ var roomsFree = hotel.checkAvailablity();
 var hotelName = hotel['name', 'rooms'];
 
 console.log(hotel['name'] + hotel['rooms']);
+

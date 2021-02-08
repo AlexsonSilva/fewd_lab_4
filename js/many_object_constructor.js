@@ -8,6 +8,7 @@ function Hotel(name, rooms, booked){
 }
 
 var clyatonHotel = new Hotel('Clayton', 128, 25);
-var lemonHotel = new Hotel('Lemon', 76, 14 )
+var lemonHotel = new Hotel('Lemon', 76, 14);
+var parkHotel = new Hotel('Park', 120, 77);
 
-console.log(clyatonHotel, lemonHotel);
+console.log(clyatonHotel, lemonHotel, parkHotel);
